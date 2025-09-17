@@ -13,8 +13,8 @@ SECRET_KEY = 'django-insecure-ws_#j112djkum_y-$(kk35sqv1z+jax!vtxef7pex^-6berto%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://todo-n86p.onrender.com', 'todo-n86p.onrender.com']
-
+ALLOWED_HOSTS = ['https://todo-l5k6.onrender.com', 'todo-l5k6.onrender.com']
+CSRF_TRUSTED_ORIGINS = ['https://todo-l5k6.onrender.com', 'todo-l5k6.onrender.com']
 
 # Application definition
 
